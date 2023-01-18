@@ -1,2 +1,2 @@
 # Python
- Primeiro versionamento
+ Primeiro repositório para versionamento
